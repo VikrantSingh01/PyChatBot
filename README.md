@@ -1,2 +1,2 @@
-# PyChatBot
-Python Based Simple Chatbot
+# PyPrg
+PyAdv Exercies
